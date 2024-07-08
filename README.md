@@ -36,15 +36,15 @@ As a full stack developer with a focus on the **MERN stack** (MongoDB, Express.j
 
 ### [Pro Manage](https://github.com/AmiyaMaity21/Pro-Manage)
 **Description:** Pro Manage is a project management app, where a user can create, edit, update, delete and assign tasks to themselves and to their team members.  
-**Technologies Used:** React, Redux, Node.js, Express.js, MongoDB
+**Technologies Used:** React, Redux, Node.js, Express.js, MongoDB. 
 
 ### [Quizzie](https://github.com/AmiyaMaity21/Quizzie-App)
-**Description:** Quizzie is a quiz builder app, where a user can create quizzes and then share them with friends who can take the quiz without being logged in.
-**Technologies Used:** React, Redux, Node.js, Express.js, MongoDB
+**Description:** Quizzie is a quiz builder app, where a user can create quizzes and then share them with friends who can take the quiz without being logged in.  
+**Technologies Used:** React, Redux, Node.js, Express.js, MongoDB.  
 
 ### [SwipTory](https://github.com/AmiyaMaity21/SwipTory)
-**Description:** SwipTory is a web story platform or content platform where all the content is in the form of stories.
-**Technologies Used:** React, Redux, Node.js, Express.js, MongoDB
+**Description:** SwipTory is a web story platform or content platform where all the content is in the form of stories.  
+**Technologies Used:** React, Redux, Node.js, Express.js, MongoDB.
 
 ---
 
